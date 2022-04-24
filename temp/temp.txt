@@ -1,0 +1,3 @@
+Add directory rec, rec//drawables, rec//icons, rec//vectors.
+Add directory savegames.
+Add directory temp, temp//temp.txt.
